@@ -5,7 +5,7 @@ import destSaudi from "@/assets/dest-saudi.jpg";
 import destJordan from "@/assets/dest-jordan.jpg";
 import logo from "@/assets/logo.png";
 import heroTeam from "@/assets/hero.png";
-import about1 from "@/assets/about-us-1.jpg";
+import about1 from "@/assets/about-us-1.JPG";
 import about2 from "@/assets/about-us-2.jpeg";
 import ourValues from "@/assets/our-values.jpeg";
 import contactPortrait from "@/assets/get-in-touch.jpeg";
